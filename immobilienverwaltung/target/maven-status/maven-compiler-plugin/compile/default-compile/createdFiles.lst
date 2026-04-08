@@ -1,0 +1,7 @@
+com\example\immobilienverwaltung\ImmobilienverwaltungApplication.class
+com\example\immobilienverwaltung\service\ImmobilieService.class
+com\example\immobilienverwaltung\repository\ImmobilieRepository.class
+com\example\immobilienverwaltung\controller\ImmobilieController.class
+com\example\immobilienverwaltung\config\SecurityConfig.class
+com\example\immobilienverwaltung\repository\ImmobilieRepository$1.class
+com\example\immobilienverwaltung\model\Immobilie.class
