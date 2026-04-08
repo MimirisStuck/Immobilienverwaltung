@@ -1,0 +1,8 @@
+[ {
+  "id" : 1,
+  "bezeichnung" : "Haus1",
+  "strasse" : "Musterstraße",
+  "hausnummer" : "1",
+  "plz" : "12345",
+  "ort" : "Musterstadt"
+} ]
